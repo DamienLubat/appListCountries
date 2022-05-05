@@ -9,10 +9,8 @@ const About = () => {
             <Logo />
             <h1>A propos</h1>
             <br/>
-            <p>L'ingénieur en acoustique précise que la maison de disque Universal a fait part de son intérêt pour ces travaux. L'objectif est la création d'un label de qualité sonore pour les albums de musique, garant d'une compression raisonnable. Espérons que les artistes, les producteurs et les ingénieurs du son privilégient à l'avenir la qualité du son, plutôt que sa puissance.</p>
-            <br/>
             <p>
-            L'ingénieur en acoustique précise que la maison de disque Universal a fait part de son intérêt pour ces travaux. L'objectif est la création d'un label de qualité sonore pour les albums de musique, garant d'une compression raisonnable. Espérons que les artistes, les producteurs et les ingénieurs du son privilégient à l'avenir la qualité du son, plutôt que sa puissance.
+            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
             </p>
         </div>
     );
